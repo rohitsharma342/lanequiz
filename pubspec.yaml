@@ -22,9 +22,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  web:
-    meta:
-      charset: utf-8
-      viewport:
-        width: device-width
-        initial-scale: 1.0
